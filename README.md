@@ -18,7 +18,7 @@ Make sure you have the following tools installed on your machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/akc-org/assessment-prakash-s.git
+git clone https://github.com/kashcodernyc/docker-assessment.git
 cd docker-assessment
 ```
 ### Navigate to the theme directory
