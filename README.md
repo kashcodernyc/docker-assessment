@@ -19,12 +19,12 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/akc-org/assessment-prakash-s.git
-cd wordpress-docker
+cd docker-assessment
 ```
 ### Navigate to the theme directory
 
 ```bash
-cd wp-content/theme/main
+cd wp-content/themes/main
 ```
 
 ### Install Dependencies
@@ -43,6 +43,8 @@ This command will pull the necessary Docker images, create and start the contain
 
 ### Accessing the Wordpress Page that displays the State in USA
 Open your web browser and go to http://localhost:8000. You should see a wordpress page.
+After that you have to sign up with username password and title. Then after you sign in go to themes and activate the US State and Territories.
+
 
 ### Stopping the Containers
 
