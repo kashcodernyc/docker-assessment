@@ -18,7 +18,7 @@ Make sure you have the following tools installed on your machine:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/kashcodernyc/docker-assessment.git
+git clone https://github.com/akc-org/assessment-prakash-s.git
 cd wordpress-docker
 ```
 ### Navigate to the theme directory
@@ -42,7 +42,7 @@ docker-compose up -d
 This command will pull the necessary Docker images, create and start the containers.
 
 ### Accessing the Wordpress Page that displays the State in USA
-Open your web browser and go to http://localhost:8000. You should see a page displaying the states.
+Open your web browser and go to http://localhost:8000. You should see a wordpress page.
 
 ### Stopping the Containers
 
